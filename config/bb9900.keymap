@@ -33,7 +33,8 @@
             bindings = <&out &kp>;
         };
     };
-
+    keymap {
+        
         default_layer {
 
             bindings = <
