@@ -50,7 +50,7 @@
     &kp CLCK                &kp LGUI                            &mkp LCLK                          &mt ESC K_BACK                    &kp TAB
     &kp Q             &mt N1 W      &mt N2 E       &mt N3 R     &kp T         &kp Y             &mt LBKT U            &kp I            &mt SEMI O            &mt RA(Q) P
     &mt APOS A        &mt MINUS S   &mt N5 D       &mt N6 F     &kp G         &kp H             &kp J                 &kp K            &kp L                 &kp BSPC
-    &sk LSHFT         &mt N7 Z      &mt N8 X       &mt N9 C     &kp V         &kp B             &kp N                 &kp M            &kp SEMI              &kp ENTER
+    &sk LSHFT         &mt N7 Z      &mt N8 X       &mt N9 C     &kp V         &kp B             &kp N                 &kp M            &mt RA(E) SEMI        &kp ENTER
     &kp LCTRL               &kp LALT                            &kp SPACE                          &tog SYM                          &tog UPPER
             >;
         };
